@@ -1,2 +1,4 @@
 /dc-venv/
 .idea
+__pycache__
+
